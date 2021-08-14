@@ -1,0 +1,15 @@
+C:\Users\HP\csharp\Inventory_JSON\Inventory_JSON\bin\Debug\netcoreapp3.1\Inventory_JSON.exe
+C:\Users\HP\csharp\Inventory_JSON\Inventory_JSON\bin\Debug\netcoreapp3.1\Inventory_JSON.deps.json
+C:\Users\HP\csharp\Inventory_JSON\Inventory_JSON\bin\Debug\netcoreapp3.1\Inventory_JSON.runtimeconfig.json
+C:\Users\HP\csharp\Inventory_JSON\Inventory_JSON\bin\Debug\netcoreapp3.1\Inventory_JSON.runtimeconfig.dev.json
+C:\Users\HP\csharp\Inventory_JSON\Inventory_JSON\bin\Debug\netcoreapp3.1\Inventory_JSON.dll
+C:\Users\HP\csharp\Inventory_JSON\Inventory_JSON\bin\Debug\netcoreapp3.1\Inventory_JSON.pdb
+C:\Users\HP\csharp\Inventory_JSON\Inventory_JSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\csharp\Inventory_JSON\Inventory_JSON\obj\Debug\netcoreapp3.1\Inventory_JSON.csproj.AssemblyReference.cache
+C:\Users\HP\csharp\Inventory_JSON\Inventory_JSON\obj\Debug\netcoreapp3.1\Inventory_JSON.AssemblyInfoInputs.cache
+C:\Users\HP\csharp\Inventory_JSON\Inventory_JSON\obj\Debug\netcoreapp3.1\Inventory_JSON.AssemblyInfo.cs
+C:\Users\HP\csharp\Inventory_JSON\Inventory_JSON\obj\Debug\netcoreapp3.1\Inventory_JSON.csproj.CoreCompileInputs.cache
+C:\Users\HP\csharp\Inventory_JSON\Inventory_JSON\obj\Debug\netcoreapp3.1\Inventory_JSON.csproj.CopyComplete
+C:\Users\HP\csharp\Inventory_JSON\Inventory_JSON\obj\Debug\netcoreapp3.1\Inventory_JSON.dll
+C:\Users\HP\csharp\Inventory_JSON\Inventory_JSON\obj\Debug\netcoreapp3.1\Inventory_JSON.pdb
+C:\Users\HP\csharp\Inventory_JSON\Inventory_JSON\obj\Debug\netcoreapp3.1\Inventory_JSON.genruntimeconfig.cache
